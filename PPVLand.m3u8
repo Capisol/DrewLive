@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/004b8c4a5ad53813eb31a5d4c0128dfe-thumbnail.jpg" group-title="PPVLand - NFL Action",Washington Commanders vs. Miami Dolphins
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -79,11 +79,51 @@ https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Boston Celtics
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2e03205a6958e224effb5a6f3a8acd03-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Sacramento Kings vs. San Antonio Spurs
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e9d80fa6ab4175165dacfadfc2f36dd7-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Brooklyn Nets vs. Washington Wizards
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/49d2553635469e1968456b0a62ce1fb1-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Orlando Magic vs. Houston Rockets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ba89b05ec7127489fd135046060b4ce0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Golden State Warriors vs. New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d456f2bde48eb5a8655cb32a33e4c641-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Portland Trail Blazers vs. Dallas Mavericks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb31e1e30b5e9a06d4a35acf0c944838-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Atlanta Hawks vs. Phoenix Suns
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f6848207130a9dbdde02ac56e0cd8c8b-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Chicago Bulls vs. Utah Jazz
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_utahjazz/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f752b3f8b3a333d521202fba6c8e0d24-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 322: Della Maddalena vs. Makhachev
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ufc/index.m3u8
+https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="PPVLand - Darts",Grand Slam of Darts - Day 9 Afternoon
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -164,22 +204,12 @@ https://gg.poocloud.in/wc_ger/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_ned/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8b4ae455fe27d97fa5bf0bf5401096b-thumbnail.jpg" group-title="PPVLand - NHL Action",Winnipeg Jets vs. Calgary Flames
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/calgaryflames/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5fa24c8cf2b3b7aa09e1258df71c7d1f-thumbnail.jpg" group-title="PPVLand - NHL Action",San Jose Sharks vs. Seattle Kraken
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seattlekraken/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c4de2ac599e2362af0e819cf2abae826-thumbnail.jpg" group-title="PPVLand - NHL Action",Providence vs Merrimack
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/college-hockey/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4b7cc76be329823e61bd7a6a13da518f-thumbnail.jpg" group-title="PPVLand - Random Events",Skankfest: New Orleans
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a4b0b249bc493a950bbcf7eb9980302a-thumbnail.jpg" group-title="PPVLand - Random Events",Skankfest: New Orleans
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -193,8 +223,8 @@ https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌​‌​​​​‌​​‌‌​​‌​‌‌​‌​‌‌‌​‌​​‌‌ Guy
+https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​​​​‌‌​‌​‌ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
