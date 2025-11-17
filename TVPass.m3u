@@ -707,3 +707,33 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1  tvg-name="Yes Network HD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network HD
 https://tvpass.org/live/yes-network/hd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks @ Cleveland Cavaliers (11/17 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Milwaukee Bucks @ Cleveland Cavaliers (11/17 7:00 Pm Et)
+https://tvpass.org/live/NBA16/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ Detroit Pistons (11/17 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Indiana Pacers @ Detroit Pistons (11/17 7:00 Pm Et)
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Clippers @ Philadelphia 76Ers (11/17 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Los Angeles Clippers @ Philadelphia 76Ers (11/17 7:10 Pm Et)
+https://tvpass.org/live/NBA07/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes @ Boston Bruins (11/17 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Carolina Hurricanes @ Boston Bruins (11/17 7:10 Pm Et)
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Edmonton Oilers @ Buffalo Sabres (11/17 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Edmonton Oilers @ Buffalo Sabres (11/17 7:10 Pm Et)
+https://tvpass.org/live/NHL15/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ Florida Panthers (11/17 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ Florida Panthers (11/17 7:10 Pm Et)
+https://tvpass.org/live/NHL31/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Los Angeles Kings @ Washington Capitals (11/17 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Los Angeles Kings @ Washington Capitals (11/17 7:10 Pm Et)
+https://tvpass.org/live/NHL30/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Toronto Raptors (11/17 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Charlotte Hornets @ Toronto Raptors (11/17 7:30 Pm Et)
+https://tvpass.org/live/NBA13/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ Miami Heat (11/17 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",New York Knicks @ Miami Heat (11/17 7:30 Pm Et)
+https://tvpass.org/live/NBA08/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Montréal Canadiens @ Columbus Blue Jackets (11/17 7:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Montréal Canadiens @ Columbus Blue Jackets (11/17 7:40 Pm Et)
+https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Minnesota Timberwolves (11/17 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Dallas Mavericks @ Minnesota Timberwolves (11/17 8:00 Pm Et)
+https://tvpass.org/live/NBA21/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ New Orleans Pelicans (11/17 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Oklahoma City Thunder @ New Orleans Pelicans (11/17 8:10 Pm Et)
+https://tvpass.org/live/NBA22/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dallas Cowboys @ Las Vegas Raiders (11/17 8:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Dallas Cowboys @ Las Vegas Raiders (11/17 8:15 Pm Et)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Denver Nuggets (11/17 9:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Chicago Bulls @ Denver Nuggets (11/17 9:10 Pm Et)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah Mammoth @ Anaheim Ducks (11/17 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Utah Mammoth @ Anaheim Ducks (11/17 10:10 Pm Et)
+https://tvpass.org/live/NHL25/sd
