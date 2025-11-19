@@ -39,32 +39,47 @@ https://live.webcastserver.online/newz/newz/96.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/103.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Orlando Magic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Golden State Warriors @ Orlando Magic
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Cleveland Cavaliers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Houston Rockets @ Cleveland Cavaliers
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_orlandomagic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Brooklyn Nets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Boston Celtics @ Brooklyn Nets
+https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Indiana Pacers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Charlotte Hornets @ Indiana Pacers
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_brooklynnets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons @ Atlanta Hawks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Detroit Pistons @ Atlanta Hawks
+https://gg.poocloud.in/nba_indianapacers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Philadelphia 76ers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Toronto Raptors @ Philadelphia 76ers
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_atlantahawks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Memphis Grizzlies @ San Antonio Spurs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Memphis Grizzlies @ San Antonio Spurs
+https://gg.poocloud.in/nba_philadelphia76ers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Miami Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Golden State Warriors @ Miami Heat
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_sanantoniospurs/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Los Angeles Lakers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Utah Jazz @ Los Angeles Lakers
+https://gg.poocloud.in/nba_miamiheat/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Minnesota Timberwolves" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Washington Wizards @ Minnesota Timberwolves
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_losangeleslakers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Portland Trail Blazers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Phoenix Suns @ Portland Trail Blazers
+https://gg.poocloud.in/nba_minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ New Orleans Pelicans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Denver Nuggets @ New Orleans Pelicans
+#EXTVLCOPT:http-origin=https.embednow.top
+#EXTVLCOPT:http-referrer=https.embednow.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://gg.poocloud.in/nba_neworleanspelicans/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Oklahoma City Thunder" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Sacramento Kings @ Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https.embednow.top
+#EXTVLCOPT:http-referrer=https.embednow.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://gg.poocloud.in/nba_oklahomacitythunder/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ Dallas Mavericks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",New York Knicks @ Dallas Mavericks
+#EXTVLCOPT:http-origin=https.embednow.top
+#EXTVLCOPT:http-referrer=https.embednow.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://gg.poocloud.in/nba_dallasmavericks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Portland Trail Blazers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBAWebcast - Live Games",Chicago Bulls @ Portland Trail Blazers
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
