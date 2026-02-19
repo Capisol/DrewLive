@@ -19,8 +19,13 @@ https://live.webcastserver.online/newz/newz/50.m3u8
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/228.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada @ Finland" tvg-logo="https://slapstreams.com/wp-content/uploads/2026/02/Finland.png" group-title="NHLWebcast - Live Games",Canada @ Finland
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada @ Usa" tvg-logo="https://slapstreams.com/wp-content/uploads/2026/02/United-States.png" group-title="NHLWebcast - Live Games",Canada @ Usa
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://pro.packcast.top/newz/newz/236.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Padres @ Mariners" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Seattle-Mariners.svg" group-title="MLBWebcast - Live Games",Padres @ Mariners
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/110.m3u8
