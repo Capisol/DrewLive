@@ -24,11 +24,6 @@ https://live.webcastserver.online/newz/newz/228.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://pro.packcast.top/newz/newz/236.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Usa @ Slovakia" tvg-logo="https://slapstreams.com/wp-content/uploads/2026/02/Slovakia.png" group-title="NHLWebcast - Live Games",Usa @ Slovakia
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://pro.packcast.top/newz/newz/236.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Diamondbacks @ Rockies" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Colorado-Rockies.svg" group-title="MLBWebcast - Live Games",Diamondbacks @ Rockies
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
