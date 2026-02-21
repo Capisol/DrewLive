@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Broncos" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-England-Patriots.svg" group-title="NFLWebcast - Live Games",Patriots @ Broncos
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Broncos" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Denver-Broncos.svg" group-title="NFLWebcast - Live Games",Patriots @ Broncos
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
@@ -19,7 +19,7 @@ https://live.webcastserver.online/newz/newz/50.m3u8
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/228.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Usa @ Slovakia" tvg-logo="https://slapstreams.com/wp-content/uploads/2026/02/Slovakia.png" group-title="NHLWebcast - Live Games",Usa @ Slovakia
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Slovakia @ Finland" tvg-logo="https://slapstreams.com/wp-content/uploads/2026/02/Finland.png" group-title="NHLWebcast - Live Games",Slovakia @ Finland
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
