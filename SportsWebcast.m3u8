@@ -4,6 +4,11 @@
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/54.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Rams @ Seahawks" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Seattle-Seahawks.svg" group-title="NFLWebcast - Live Games",Rams @ Seahawks
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=nrFn1n7g9RCvk9YiSI1HoKsTcJC8GlrFB4jYFkfrtoA&e=1771749970
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",ESPN
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
@@ -19,11 +24,46 @@ https://live.webcastserver.online/newz/newz/50.m3u8
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/228.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Slovakia @ Finland" tvg-logo="https://slapstreams.com/wp-content/uploads/2026/02/Finland.png" group-title="NHLWebcast - Live Games",Slovakia @ Finland
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Avalanche @ Utah" tvg-logo="https://slapstreams.com/wp-content/uploads/2024/09/Utah-Hockey-Club.svg" group-title="NHLWebcast - Live Games",Avalanche @ Utah
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://live.webcastserver.online/newz/newz/103.m3u8
+https://live.webcastserver.online/newz/newz/89.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Washington" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Washington-Capitals.svg" group-title="NHLWebcast - Live Games",Flyers @ Washington
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/169.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jets @ Canucks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vancouver-Canucks.svg" group-title="NHLWebcast - Live Games",Jets @ Canucks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://pro.packcast.top/newz/newz/88.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Kings" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Los-Angeles-Kings.svg" group-title="NHLWebcast - Live Games",Knights @ Kings
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/95.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kraken @ Stars" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Dallas-Stars.svg" group-title="NHLWebcast - Live Games",Kraken @ Stars
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/104.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Maple Leafs @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Maple Leafs @ Lightning
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/171.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Oilers @ Ducks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Anaheim-Ducks.svg" group-title="NHLWebcast - Live Games",Oilers @ Ducks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/90.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Devils" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-Jersey-Devils.svg" group-title="NHLWebcast - Live Games",Sabres @ Devils
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/174.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Astros @ Nationals" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Washington-Nationals.svg" group-title="MLBWebcast - Live Games",Astros @ Nationals
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
@@ -39,6 +79,11 @@ https://live.webcastserver.online/newz/newz/123.m3u8
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/115.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Dodgers @ Angels" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Los-Angeles-Angels.svg" group-title="MLBWebcast - Live Games",Dodgers @ Angels
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/106.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Giants @ Mariners" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Seattle-Mariners.svg" group-title="MLBWebcast - Live Games",Giants @ Mariners
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
@@ -84,8 +129,18 @@ https://live.webcastserver.online/newz/newz/131.m3u8
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/121.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Reds @ Guardians" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/04/Logo-Cleveland-Guardians.svg" group-title="MLBWebcast - Live Games",Reds @ Guardians
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/108.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Rockies @ Diamondbacks" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Arizona-Diamondbacks.svg" group-title="MLBWebcast - Live Games",Rockies @ Diamondbacks
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/134.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tigers @ Yankees" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-New-York-Yankees.svg" group-title="MLBWebcast - Live Games",Tigers @ Yankees
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/124.m3u8
