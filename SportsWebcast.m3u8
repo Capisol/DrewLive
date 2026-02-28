@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Broncos" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Denver-Broncos.svg" group-title="NFLWebcast - Live Games",Patriots @ Broncos
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Broncos" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFLWebcast - Live Games",Patriots @ Broncos
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
@@ -104,6 +104,11 @@ https://live.webcastserver.online/newz/newz/106.m3u8
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/118.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Giants @ Athletics" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Oakland-Athletics.svg" group-title="MLBWebcast - Live Games",Giants @ Athletics
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/128.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Jays @ Yankees" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-New-York-Yankees.svg" group-title="MLBWebcast - Live Games",Jays @ Yankees
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
@@ -124,6 +129,11 @@ https://live.webcastserver.online/newz/newz/109.m3u8
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://pro.packcast.top/newz/newz/125.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pirates @ Astros" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Houston-Astros.svg" group-title="MLBWebcast - Live Games",Pirates @ Astros
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://live.webcastserver.online/newz/newz/127.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Reds @ Brewers" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Milwaukee-Brewers.svg" group-title="MLBWebcast - Live Games",Reds @ Brewers
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
