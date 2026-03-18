@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Bruins @ Canadiens
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://vr2.packcast.top/auth/87.m3u8?token=jDGh27mo3TwgSbGVh5Z1_J6Orem6Of3Yk80RmRZolgq1QGbDSZtl-XmVlR-45srGifZ70kRjR8CvPb5CoE-4M4dlz9evfIa0NHpGaBF1dxaHqp2cT5Urtf-QN5OTdv17yn-IIiQqoeZDE6QBZ5NH1zQVy8fIcD0tAIiVGgbWqCwHTdcD3WcoID6jYhsBANDWN1FCv45_ce6nqJ0QsAn11njB23ThPRTidqaFIx1acjY6FVyCYD0kseDZWkjS7o0QOFCxXp5wJ9G6nPPYUr4Z9w8oXki427RyAKYCvaljVCc_2RRZtipGRrI9-wqjIAkVXPINEfh5yiv2VoVUOG6-ymHGwjl8n169LfbqUGsDmwSxsV4WvDUZqD83uIMJSihRHLg0vtQ7IoSvinTa0dhiBtXE4UDwOEi8haW0HrguKVZunh4LjEcIJDf_Z5EKfWGcBxsH2rrQGy2xcvY31mj8IVzFKIP1LsGS0RI8oGnAnkWwc7wyR2-dJgQQ0A4wTJ02WJa-w8zbmZltUMTRWEnuz8hqEfgxSitfelBQVYM4LYhurcuOrI3cPDNOUeEMqnF-BvR74Evb0X1ZuWUM49tPEMh20ypHgHsdHN8D-Uf_SqQ
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Lightning @ Kraken" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/10/Seattle-Kraken-logo-.png" group-title="NHLWebcast - Live Games",Lightning @ Kraken
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -9,11 +14,6 @@ https://webcast-cdn.b-cdn.net/newz/newz/97.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/88.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Predators @ Jets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Winnipeg-Jets.svg" group-title="NHLWebcast - Live Games",Predators @ Jets
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Knights" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vegas-Golden-Knights.svg" group-title="NHLWebcast - Live Games",Sabres @ Knights
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -23,9 +23,9 @@ https://webcast-cdn.b-cdn.net/newz/newz/96.m3u8
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/98.m3u8
+https://vr2.packcast.top/auth/98.m3u8?token=yDFGDK5sZBEK4AapWOc81WHZAj2AzXtvQrYhICkKjY5D3CjdiA5aK_wnAH70dYk558VZbo963NAauFL1nvbp_DGfQ6TzOEjNjRjv4hHHwh4RnOoZZs8BR558ctv81EUQbVsSTJKbhmDEmfaF7yRTCT0hPU9oh-rnWYOzNBZGrXIU-yBuphOL45nyZuiHJ39-PF7KPP_W4LcqWGsus_1V_UAj6NbtBIra84mRlGfRUpqcdYKO1mYKzkOLpLNCr0571Mrj6Fn09NqBRAd2imOZekX8iGplqCSzXOQ67DT-YFWl-yRheL41UULY5Qpwvp08pCHsl1UQpaz79a6OfuqABiNW7c53c8jsNwhwHHDu06onhwdEldK8JyoR3vTH2tGd6uopYLBuisWgWmf9r5ZVtaUF9Z_vTzz-tm1tHzy1IEiV2Ope9X4APmAe2mRn27HqwqdFxPq9pFQGWIC23wymknLiBblpwew9MwR8QC40_ZzMDVbBXdciV7l6vtHpoxXI1pkVd78vdKki4Qtv45LSq7BaREoGFxgeUVw65USO9wOqRwPqT0q50RwZUEzAjoAYJGd8Zvz0ZeJcMl0uLxjqYbufIGGsmO7XSgNYFZl2U4M
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Wild @ Blackhawks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Chicago-Blackhawks.svg" group-title="NHLWebcast - Live Games",Wild @ Blackhawks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/85.m3u8
+https://vr2.packcast.top/auth/85.m3u8?token=GTJxpvbOfaNWQUeuUVDvIhqKBFQK9V_Ri38vhjck_vulN1feT9Odo8kFSCtyi1lVUwb9L_V-7_3CPZuQRheq1-xeRO_b_q14TMCWP1YQIXA-IiHkJsQ-VyeY-F6z6me-CaWNBa4tMMUZAm0dLdbZ5sjSeFVvOT966TIT3epMW3gO-IZz8h9P9hfTHWAcaOBDK-vguFc3iKAgHapM64HdMZY09rM4TClWoQKXf1y5yvXvW2HsCBsz-VJXbMeY7dWB6QRoIvW9dL2P1NAq1fxIuCSypoKpSuJCiR428wYE_epqjV3vk1cZDcWe1W5SoJvIBYpZLBDSrFDeMpPoLTrJ18pKaWPTZBiCgudnfaoTEQ9ke1GfCFI-XgshdW3aoLWTnV8BJyYFttVVFRT7cS3s5JQ2GW8gHcpB65_NcHzJelILHbYt8NxKGjIQHzen20_a7KG1tscT7YnKulNmkqNbKxXcUgtqJxwW9Er-8dQ5bRPa5w_k6xs9sfW9bli1KYAEKMmqKcc5DYFPGpRjFVQtTMeciE-jvt8OeBjo9-l4XPQFLz--ouf-rIxud9dHK0rM2mGcLfikpiCBxrML-PH7sotDZRYV6gnK9I6fBLittpg
