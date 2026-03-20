@@ -14,6 +14,11 @@ https://webcast-cdn.b-cdn.net/newz/newz/169.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/89.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Maple Leafs" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Toronto-Maple-Leafs.svg" group-title="NHLWebcast - Live Games",Hurricanes @ Maple Leafs
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://vr2.packcast.top/auth/167.m3u8?token=ERYHU6VktvqOsS1tqpxW0WFlM0q5nhQJiUaCa9Lg34ZOdysxr-cwORY0a1feSdIFhGkfKBPUwX80L08NEc_o4m6H3eAFdh318_rGTMbZOZggzrvtxUGwof_grOKaH19S9t08B53GsprN30IXdpcrshgkK9ilK9fevKRVzZHkrxjXhq0Qw60rtAHmcsS5OZrzhJnWrlMoCgJh48ur587J7JihE8dfv9GhnkhzKYQTbYHvBJHE4PeTG8HcfMkYNhcZFYV675ZZWN7HPVqycFIfNMUjmZC9v9MCkj6k21iwf9cugMWrYunua7NNwCb_j8EjbyKkQMmd1Z6lpl5ZEjqSifTMCNIwLeSLbFUSk8Azc1YobuLF8hJsZ54BeRIaC5umgxAF_yo-5sBfnQ_EWWWuO_DxHmLsni0pOQQJy2vC_TnOhPcWeJJa68ALpjzJynYJrGApXu5w6C6gTG9AEdHHAfKam2mhit5pq6a1JN0f-emEdfdzWP4ZZOWVZ_kpUWp0r69BD3bcdsVcQ6kAEQo4--FUWFUjn-YVRg7eH_7x31sU-0XP__7DuPubKqZ7Z0WDgtR9jhMxVfOejOpKI0tmdoOLK7U29J4DH5rAp_gdtGs
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Panthers @ Flames" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Calgary-Flames.svg" group-title="NHLWebcast - Live Games",Panthers @ Flames
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
