@@ -9,6 +9,11 @@ https://webcast-cdn.b-cdn.net/newz/newz/88.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/178.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Sharks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/San-Jose-Sharks.svg" group-title="NHLWebcast - Live Games",Flyers @ Sharks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://vr2.packcast.top/auth/103.m3u8?token=Y3xNTjSu4l5aQpu8KRIgunZLZ8J4SpMr6viO4m345GMwnXCtGSqidfcsHQvnFMXVNmaTVsaWFPWUS5sYN7zV0zoJQZ5vgyecKxeBeCcy3CqvAAsj5mufkxQMLQeTZydS7H8R82rhzxN3d_91k0r7SsySn_Gx5Ai46UG8JM0bncAQMvchzzKeOFMFv2pr98nYGcGd7rCT56IJ3Q7-FvQfKM9qtElc3Jg8Lp6MTWYAt5ax3aQzFWsVExQvveS6SR8-svw0FuASc1fBKPw3Ktyf5F-zu7lEte3vV5mdH6scO20yRWFU1suDT_XQWSQvI8LSbOyiPIbx4cX1gbkpsHmooe8sLrG-jL-7clKB0eIkGGJH3g-udPYcwmrEXJif20pUFP6bgFSbGHMAmO8ebNq3kmlBYZJ8ZG0pSi68jkQgYrNC2ZQMQmp6M58Pzy8jdZk9bTAE_IwxOg6bhDu8zMOmlH8QvsbD4QqAvnWytmCZDy5hrpYu7rnRG8qBez5gP-W6Uvsxau5RPrqqbAz85gJJFvFc0wo1abRkgn0btQeegnQSM-BLpGbgljMKt-2UkNi61gka1stKujtIeoGOSD6Kh8d6ftd0JDcj6-6oRrggYKU
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Islanders @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Islanders @ Canadiens
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -19,11 +24,6 @@ https://webcast-cdn.b-cdn.net/newz/newz/87.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/99.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kraken @ Jackets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Columbus-Blue-Jackets.svg" group-title="NHLWebcast - Live Games",Kraken @ Jackets
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/97.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Lightning @ Oilers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Edmonton-Oilers.svg" group-title="NHLWebcast - Live Games",Lightning @ Oilers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -38,9 +38,4 @@ https://webcast-cdn.b-cdn.net/newz/newz/102.m3u8
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://vr2.packcast.top/auth/95.m3u8?token=ovee16ZQjXa1Ar2K1ZcECH0GbM-JjelJYyCwZWu8YrvcljRwNg7NRxVjOHrFCzagTi3El-EnZGBkUDicQzjLE5LYl9ooZuQUWtNE3f5RauKBxVZ012KchBU9nDIJ-w5I4UO9KP2NOtuJOiBgVKpZf4HFUxZIGFRXcQSX6GXUBgpY1vbXq4XXRrKfMEHPkRLKS-QOuw6Mf3Mm6cI97qM7DukIsmWnAkwvDayO0OQh-pID1gHW1IN69bNomc50aUaHrS0CidX7IXMJ8aRuFCRKGLmIz6GqO497XsDFtH98MofoVUrkXVNooljyVjpS-TIrI_8sXbyn_khAN8vYtUMa7J8K1AvLqBXv4lnzciGO306p9vaQd4JprORX8mcvYx5Ls8ueIGkUq9bFzqtGOkDaDFPDMZcAvDiJ0YE2pQ_61Fe-czuei_oj1c8-XxOO99RBqWGJyogbTqa2Pa3SLS7_CrUwkrM1d_kap8DtAfjACOuMI4MAT-KTYRVK43mSCa1J5o-8QeDzZU1XAau4gkZZS-XZaMQHghJKeTBDE4b4jhV4gZQAkw5hiI1nQliPR2_ruqWs10ZZ6HosY_wPwva22VKaKRQmAGpDyg9tQbNGXaE
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Wild" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Minnesota-Wild.svg" group-title="NHLWebcast - Live Games",Stars @ Wild
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://vr2.packcast.top/auth/105.m3u8?token=TG5JURf_b2WiWnkV3aPjjN0SU1Ay8P9aFqLTxTME9yUxwDoi1smpjyyIYvCDlvZNCjKBeMYV5FM02bKzwP3CSsMSaep5dlHKc3caULaJFnP34pNAIa_Wl0gdqdIBwSlUmGiaPBrs2ChzA-ZtWBwradm7o8a3e_xt-IPaVh_6KVsWFFkmuxgO_ISEcHW7vAPC59kxq5Lp4GiC2sKjBHqpS2ln3tEpbb-7_SZu9SvVXFlqX7aCGaADRvpKnP2vGvyMgQxh6tMuK1tlXsbhrYOO8LbroSGqXD_PxU00wub8Cq1vLQg5BBL_GgiHwyKov9KL1d-YVAlYlZrK_kQao4TGoVR3Jypgz3yS4gJcfazKQ6GQ3IpLeF_Ge31NQwsypLejsMpnf8QpKbazwOQ6-kpkGOkeN0Pa8jSWXMF4a70EZoLBCPjth1MJgebus3w5ivwKhk7mp2KPRcz5diBMRgZ_hkd94gNTdZ5UBqzo2dt7dx8h0qfOd4FC6uj4w8qy1LGnygXb9sTvwIsfsofI7haSfOuHZzgzYCv3Y_Ec7egYLqU9BuDqzgZvY-uUqKBiON-keM25UefdFxGrfkF6OcQlSbTWorVikcmmoy2sspE5I_c
+https://webcast-cdn.b-cdn.net/newz/newz/104.m3u8
