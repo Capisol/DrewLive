@@ -1045,3 +1045,99 @@ https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruD
 https://live-th10.myjktv.com/watch/live.m3u8?video=tooniverse_540&sid=1UJHEirDzlX6b0U2JY7vH7DGkPolJyz1eb9pjKwU&secret=47b667ee1999652cb92cf9cb73c4e654&time=1771648662
 #EXTINF:-1 group-title="AriaPlus - South Korea" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png",Discovery Channel
 https://live-th10.myjktv.com/watch/live.m3u8?video=discovery_540&sid=MMRDBICzkAZmBTDYPGvofmP3KM7rNouvgDL2ofkK&secret=819db6a6233758d48755a6e3505fa934&time=1771650286
+#EXTINF:-1 group-title="AriaPlus - Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/bbc-first-au.png",BBC First
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BBC_Brit.svg/250px-BBC_Brit.svg.png" group-title="AriaPlus - New Zealand",BBC Brit
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/bbcbrithdraw/bbcbrithdraw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/250px-BBC_Lifestyle2.svg.png" group-title="AriaPlus - New Zealand",BBC Lifestyle
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",BET
+http://212.102.60.231/BET/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png",We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png",Oxygen True Crimes
+http://89.105.221.127/Oxygen/index.m3u8?token=test
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png",Bravo
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e!-us.png",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png",TLC
+http://89.105.221.127/tlc/mpegts?token=test
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png",Hallmark Network
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png",Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network/Adult Swim
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",Disney Channel
+http://89.105.221.127/Disney/index.m3u8?token=test
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png",Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png",Buzzer
+https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-deportes-us.png",FOX Deportes
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fanduel-tv-us.png",Fanduel TV
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fanduel-racing-us.png",Fanduel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-new-york-us.png",Sportsnet New York
+http://212.102.60.231/SNY/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB Network
+http://89.105.221.127/MLBNetwork/mpegts?token=test
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesc-us.png",NESC
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",Nicktoons
+http://212.102.60.231/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png",CNBC
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png",Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",Paramount+ with  Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png",STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/charge-us.png",Charge
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png",Ion
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_WhiteLogo_800x318.png",Ion Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
