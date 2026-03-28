@@ -1189,3 +1189,129 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162241&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162242&extension=ts
 #EXTINF:-1 tvg-id="625DisneyJr(src01).uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="AriaPlus - United Kingdom",Disney Jr.
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=1739582&extension=ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
+http://kstv.us:8080/live/Felix12/3330312491/40774.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
+http://kstv.us:8080/live/Felix12/3330312491/407
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
+http://kstv.us:8080/live/Felix12/3330312491/40586.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png",CBC Toronto (CBLT)
+http://kstv.us:8080/live/Felix12/3330312491/40758.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png",CBC News Network
+http://kstv.us:8080/live/Felix12/3330312491/40760.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH (CHCH-DT)
+http://kstv.us:8080/live/Felix12/3330312491/40754.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Toronto
+http://kstv.us:8080/live/Felix12/3330312491/40752.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CMT.Canada.ca" tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
+http://kstv.us:8080/live/Felix12/3330312491/40750.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Cottage.Life.ca" tvg-logo="https://media.starlite.best/cottage.life.ca.png",Cottage Life
+http://kstv.us:8080/live/Felix12/3330312491/40741.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png",Crave 1
+http://kstv.us:8080/live/Felix12/3330312491/40656.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png",Crave 2
+http://kstv.us:8080/live/Felix12/3330312491/40655.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-3-ca.png",Crave 3
+http://kstv.us:8080/live/Felix12/3330312491/40654.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png",Crave 4
+http://kstv.us:8080/live/Felix12/3330312491/40653.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crime-and-investigation-ca.png",Crime and Investigation
+http://kstv.us:8080/live/Felix12/3330312491/40737.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cp24-ca.png",CP24
+http://kstv.us:8080/live/Felix12/3330312491/40740.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png",CTV Comedy
+http://kstv.us:8080/live/Felix12/3330312491/40746.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="ctv.drama.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png",CTV Drama
+http://kstv.us:8080/live/Felix12/3330312491/40766.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png",CTV Wild
+http://kstv.us:8080/live/Felix12/3330312491/40775.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CTFO)
+http://kstv.us:8080/live/Felix12/3330312491/40733.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Barrie (CKVR)
+http://theariatv.github.io/channeldead.mp4
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009",Daystar
+http://kstv.us:8080/live/Felix12/3330312491/40729.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
+http://kstv.us:8080/live/Felix12/3330312491/40728.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png",Discovery Channel
+http://kstv.us:8080/live/Felix12/3330312491/40727.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg",Disney Channel
+http://kstv.us:8080/live/Felix12/3330312491/40725.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png",Documentary
+http://kstv.us:8080/live/Felix12/3330312491/40721.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png",DTOUR
+http://kstv.us:8080/live/Felix12/3330312491/40720.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="E!.Canada.ca" tvg-logo="https://media.starlite.best/e.canada.ca.png",E!
+http://kstv.us:8080/live/Felix12/3330312491/40719.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Fight.Network.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
+http://kstv.us:8080/live/Felix12/3330312491/40711.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png",Flavour Network
+http://kstv.us:8080/live/Felix12/3330312491/40743.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",Food Network
+http://kstv.us:8080/live/Felix12/3330312491/40710.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png",FX
+http://kstv.us:8080/live/Felix12/3330312491/48378.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="FXX.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",FXX
+http://kstv.us:8080/live/Felix12/3330312491/48379.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Game.TV.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/game-tv-ca.png",Game TV
+http://kstv.us:8080/live/Felix12/3330312491/40704.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png",Global Toronto (CIII-DT)
+http://kstv.us:8080/live/Felix12/3330312491/40703.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Investigation.Discovery.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigation-discovery-us.png",Investigation Discovery
+http://kstv.us:8080/live/Felix12/3330312491/40689.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Lifetime.TV.-.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png",Lifetime
+http://kstv.us:8080/live/Felix12/3330312491/40684.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Magnolia.CA.ca" tvg-logo="https://i.ibb.co/sJdFLQf9/Magnolia-Network-svg.png",Magnolia Network
+http://kstv.us:8080/live/Felix12/3330312491/40722.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="makeful.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/makeful-ca.png",Makeful
+http://kstv.us:8080/live/Felix12/3330312491/40597.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="ONE.TV.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26777_h15_ac.png",One TV
+http://kstv.us:8080/live/Felix12/3330312491/40637.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="outtv.ca" tvg-logo="https://play-lh.googleusercontent.com/jsVXFQfgTUMbNvWmk3Ccy4eVFSysQMI0vTEiTzgbLddzIGnPfsFLJ6OK29BRwGYhaPw",OUTtv
+http://the.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Showcase.Canada.ca" tvg-logo="https://media.starlite.best/showcase.canada.ca.png",Showcase
+http://kstv.us:8080/live/Felix12/3330312491/40665.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png",Silver Screen Classic
+http://kstv.us:8080/live/Felix12/3330312491/40623.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png",Slice
+http://kstv.us:8080/live/Felix12/3330312491/40622.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Smithsonian.Channel.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png",Smithsonian Channel
+http://kstv.us:8080/live/Felix12/3330312491/40621.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="sportsman.channel.ca" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png",Sportsman Channel
+http://kstv.us:8080/live/Felix12/3330312491/40575.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png",Sportsnet 360
+http://kstv.us:8080/live/Felix12/3330312491/40618.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png",Sportsnet East
+http://kstv.us:8080/live/Felix12/3330312491/40617.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png",Sportsnet One
+http://kstv.us:8080/live/Felix12/3330312491/40616.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png",Sportsnet Ontario
+http://kstv.us:8080/live/Felix12/3330312491/40615.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png",Sportsnet Pacific
+http://kstv.us:8080/live/Felix12/3330312491/40614.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png",Sportsnet West
+http://kstv.us:8080/live/Felix12/3330312491/40613.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Toon-a-vision.ca" tvg-logo=https://upload.wikimedia.org/wikipedia/en/0/04/ToonAVision_logo.png",Toon-A-Vision
+http://kstv.us:8080/live/Felix12/3330312491/40715.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
+http://kstv.us:8080/live/Felix12/3330312491/40652.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
+http://kstv.us:8080/live/Felix12/3330312491/40651.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN 2
+http://kstv.us:8080/live/Felix12/3330312491/40650.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN 3
+http://kstv.us:8080/live/Felix12/3330312491/40649.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN 4
+http://kstv.us:8080/live/Felix12/3330312491/40648.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
+http://kstv.us:8080/live/Felix12/3330312491/40647.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png",TVO
+http://kstv.us:8080/live/Felix12/3330312491/40644.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="Vision.TV.Eastern.ca" tvg-logo="https://media.starlite.best/vision.tv.ca.png",Vision TV
+http://kstv.us:8080/live/Felix12/3330312491/40672.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
+http://kstv.us:8080/live/Felix12/3330312491/40663.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="ami.tl.ca" tvg-logo="https://m1.quebecormedia.com/static-short/addiktv/addiktv_logo.png",ADDIK
+http://kstv.us:8080/live/Felix12/3330312491/40778.ts
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="tltoon.franais.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png",Télétoon
+http://kstv.us:8080/live/Felix12/3330312491/40604.ts
