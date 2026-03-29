@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blackhawks @ Devils" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-Jersey-Devils.svg" group-title="NHLWebcast - Live Games",Blackhawks @ Devils
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=YeVGVHxlm67_kP9lMT29RNZy_cK__ximvTNAnXZYDKA&e=1774823284
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Jackets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Columbus-Blue-Jackets.svg" group-title="NHLWebcast - Live Games",Bruins @ Jackets
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -14,6 +9,11 @@ https://webcast-cdn.b-cdn.net/newz/newz/93.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/92.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Panthers @ Rangers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Rangers.svg" group-title="NHLWebcast - Live Games",Panthers @ Rangers
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://vr1.packcast.top/auth/175.m3u8?token=7gI8LxauZGlNfWTu6sTWn3cPF1SZUU_KOuRQhMjk331YstIL9_vFfMj7IhfMZcR9VrVT407XfXn1wakB99HzvIR8xcbzABoV1Z6Tc8sGIVtIVi4FRBtperOk1WVaIbEvXSQVLsOJejWXDvvN8mYeqB6Ca5W1eXlmnaA8axHgHJP5xtYI1rONgUelawjh9P6pQ9iU3y3G-9qzIhI6dw2DAIh23sDGrEXXLlz-H1E0A9qwClczm8uOhK87NdYpmaCS9Px5U9I7byC6y8JgjfvP4Vi1jSueK5bOax_Arr1wJPW4ueLl6J6oGfBy8MjHw_2Agp2ZEtyijdi45wnjAOW8cPvEgNOZn9NH59B1Dkbqmnn2oguCeGtnq88NFqf_B_fqPLAXoNzBiXvQ8bMHD_ZHj516XPLtC91LtdjtQ_QS-jD8YicogV6uYr2gxLFhWzkpyaAQbuJRW7hBixY6KLM59Sg_c8OHT5_d2cE7V1tu-sL6txdDUm6W4F_Dvuvvx8G_NWNro_o0K-pwjE5gS229NCX1o0Hafff8Y9Qbj0dPS7NeTq2r8CLRdiWRjhTKeMv7AffBXxaKjPoALSobOubwAgO91HWpM5s-N_99DX1n1Do
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Predators @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Predators @ Lightning
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
