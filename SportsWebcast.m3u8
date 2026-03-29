@@ -1,16 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blackhawks @ Devils" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-Jersey-Devils.svg" group-title="NHLWebcast - Live Games",Blackhawks @ Devils
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://vr1.packcast.top/auth/174.m3u8?token=GpUCGVyzgehhqdXaasAA37_1FLSPCX1XEb2he4S375gSGXKg_GuSF8da7xTXJRH9UZt2Ct5UZ5Kk3NbYQiaxC2RITSbOyKYvcI1cFTkT17j66QE30ra-rQIC2diuNa9BWiXHWOm8zsZyu57YDepiQ3jWpuoJWQwjt7lIX1hvWVVyO71F9b23BLhYOKyYw7rP8njKuGQE4CBwg_UyoHKp-ux6kvQEOxlyGveHRJ-mjdpmZcWnmXU3je73EZedIm318GBHMi36rtFHejiCK2_GM8rk-DbsJ5vX61t3GbY576_hLxXr1bZRNLMz2mwDIh7oxqbIn_q2mtiJbiVa9a-MECSktO4Auw3uv7dNW4epVbGerb8kHx7nc1XdkfKT5sF4Jx22UXHFKvhHmL3qRZ8lMgpenPkoExLS7wQgbyJYN9hw4EAR-6b9CMhWGO0r3qhjwuCU0FTy9G0q4DbIU4Da8lApHJc4O7n4CG7l1F7i3ktx5PI8W1AXs2qcqqVbZ_NB_7hRGP9J0vXQ9tJ5a7FwvUoFtZ0Gwov4x1MLD7kpevq7kJsJe5Wc23QCzOKwmynKLKzN_X3c2AxHx_iXijsreC5YqtSVEDS5ggg4svbKqS4
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Jackets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Columbus-Blue-Jackets.svg" group-title="NHLWebcast - Live Games",Bruins @ Jackets
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/93.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Hurricanes" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Carolina-Hurricanes.svg" group-title="NHLWebcast - Live Games",Canadiens @ Hurricanes
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Predators @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Predators @ Lightning
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/92.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Panthers @ Rangers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Rangers.svg" group-title="NHLWebcast - Live Games",Panthers @ Rangers
+https://vr2.packcast.top/auth/100.m3u8?token=ndcCJGUkUZhCVtFxaGnKzC7tFIgRQjMpW_4DER5Lc94eIbL3JIGsQjRUFd0s6nY5cJxGl4Jhq40eAjZjsmCFUGfvXtqiAMosnsORuzoJ1lkGBwGJ8lG6vHxAJkMwxSDJN2lNmEftp0UWaVj1VNnnz7j9Y1VRRHWMETFrw9q_ohrK9GObzeAxlqO8fwA3JW8oDEINnsSTVuOdQ8f2dssqEBp4NV9BpPnH5HzBpwNE7KzPrxP_9hrRkVEBLdOKgIcRgUJxjQDyOYmceu1QSFnlRJYPWrQdtjMsIrWz9OGOJ3-uOmXtEAQQ3dP7P_XDzNlzf9VwpKdSyQOIe-8kKeuwHalGFkYpGLVTvSwHRTzLElNH2kwQl5vXBo8Fg72sCQpYoWZdFvA5Zlv-LrKasnUOCKrwyNvaYWk4L9gQOkRfxB-0b9K-orLG6va7rp5f5qTSFC_8cqXJU_k9f6S-udQnTEvGmxX-vytQZGC5RDwUroK5dPKEtOzD-UvrQ6YSXoDZ3x0o3iCeGdhK16oyHH-RX1fo0EQ3eKpENllQL2RY5OANajG5BkYVuiFBBW9_lkUapFNNrqhLnUOjSKP1IPI7cJbEBtwO9yLuUkeg9wDZiks
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Flyers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Philadelphia-Flyers.svg" group-title="NHLWebcast - Live Games",Stars @ Flyers
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Ja001AedfTqpgHDCODXA-o_ltQzN89qD8P8276t5viw&e=1774830305
+https://webcast-cdn.b-cdn.net/newz/newz/173.m3u8
