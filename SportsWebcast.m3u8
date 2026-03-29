@@ -14,6 +14,11 @@ https://webcast-cdn.b-cdn.net/newz/newz/93.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/92.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Panthers @ Rangers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Rangers.svg" group-title="NHLWebcast - Live Games",Panthers @ Rangers
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://vr2.packcast.top/auth/175.m3u8?token=7gI8LxauZGlNfWTu6sTWn3cPF1SZUU_KOuRQhMjk331YstIL9_vFfMj7IhfMZcR9VrVT407XfXn1wakB99HzvA14rk80-gfyBt4oaOFLHpiq1SgJBMBXNbExiYYUvnFHwaF064_XEXDVkd9Mc-D5V4IMOPhz1SkjjDTZ7eVJr0448Dnzk-VPkcnS2_Dd6YvKpabMMjU41Qm6hyo87Up8C2osrM71BchOrkwX4tUfp5K3fjDWg1nzywka5Wuqm7OV0x4ry5UKZ7vjbtRM-1HT5woAqgbZcXwnlr47F4inphkOfqAyE_HtsdfM71okNkp8vmR6ocwC9KXiGMGzUrVCuuQqZwsarlyJOpRK94cFFc6kR7qLXXa1f7P9teo0r8I5hSUvuHrwT1aAHmsy8AUeET1isEkOjdJmPdbePdWASmOKtov_zKANMuQoiY_ifPnx2rbhhy0jh_9T4eachKtpALb5CqOuJSMDUBryHlWNXFvPla93vfEi5K5NOHjPvsLW6NivhCU-ZG9HTZ9ae6WiFhHwxuFt3LIHZl_YUa5g5Vfkg6NyptUQO0G3ODfKg6DIPV1oooer29QJojBGWg4MuBMh_PzAgOfMoO8yczS_FuA
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Predators @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Predators @ Lightning
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -23,4 +28,4 @@ https://webcast-cdn.b-cdn.net/newz/newz/171.m3u8
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/173.m3u8
+https://webcast-cdn.b-cdn.net/newz/newz/104.m3u8
