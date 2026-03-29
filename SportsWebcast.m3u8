@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blackhawks @ Devils" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-Jersey-Devils.svg" group-title="NHLWebcast - Live Games",Blackhawks @ Devils
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/174.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Jackets" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Columbus-Blue-Jackets.svg" group-title="NHLWebcast - Live Games",Bruins @ Jackets
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -18,7 +13,7 @@ https://webcast-cdn.b-cdn.net/newz/newz/92.m3u8
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://vr2.packcast.top/auth/175.m3u8?token=7gI8LxauZGlNfWTu6sTWn3cPF1SZUU_KOuRQhMjk331YstIL9_vFfMj7IhfMZcR9VrVT407XfXn1wakB99HzvMRDDRFUpfV62zwve0Se5JUC5t1nxXyEVejRRjyo7QOxl8_w_1rit5XIeKyo43Vud7a1Cq_KuZ7D3zg8ceKobYPsb_nMlW-be5N99OeUZ93u5E2GsLtxRQbctGtJd_ABWEQx7diM0w4UfdU559WsR7RjRtjj8mEo-H-5b908OaZb-gGId4i5H64NXRezo7mcjiNyT51g3a83LfOrrModp8DlqWT32Crduu91a6kDDGGOipOXZ6r7iSUNITR_5DxllwNW6pDHEvSsB7PWchOOfXOd4ZHl4u5od_kbcrAx73Io7QSsSwGKvn96780psA5DlJjN0nANaDtRTyA1W-PWEVKv9ToL4l-Y9HbxiGEIQ94AmnlPoV6bGwJ1a-qggqwOAVZfTlLj3DuDgVt9kKBF70lXyu4mD0UW_x08A-doJDhNiruswr-em4LwZN97xkRsUHbJumZsHY9JXlZX6_KX2PJ9Apw82PiDSCEAwOCCGRaHVKY_bY5sazMmC7uDUh_8rKXnN6Jki3Y0VUoaz_l4JLo
+https://webcast-cdn.b-cdn.net/newz/newz/175.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Predators @ Lightning" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Tampa-Bay-Lightning.svg" group-title="NHLWebcast - Live Games",Predators @ Lightning
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -28,4 +23,4 @@ https://webcast-cdn.b-cdn.net/newz/newz/171.m3u8
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://webcast-cdn.b-cdn.net/newz/newz/104.m3u8
+https://webcast-cdn.b-cdn.net/newz/newz/173.m3u8
