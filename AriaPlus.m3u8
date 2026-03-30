@@ -1357,3 +1357,27 @@ http://74.89.88.102:5004/auto/v43.4
 http://47.40.181.39:9981/stream/channelid/83516230?profile=pass
 #EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png",FXM
 http://47.40.181.39:9981/stream/channelid/6404291?profile=pass
+#EXTINF:-1 group-title="AriaPlus - Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/comedy-au.png",Comedy
+http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263591&extension=ts
+#EXTINF:-1 group-title="AriaPlus - Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/lifestyle-au.png",Lifestyle
+http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263675&extension=ts
+#EXTINF:-1 group-title="AriaPlus - Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/showcase-au.png",Showcase
+http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263681&extension=ts
+#EXTINF:-1 group-title="AriaPlus - Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox8-au.png",Fox8
+http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263669&extension=ts
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/AFN_Family.jpg/revision/latest?cb=20230801175332",AFN Family
+https://bbb.exoadash.com/TVD2810/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/AFN_Movie.jpg/revision/latest?cb=20230816172837",AFN Movie
+https://bbb.exoadash.com/TVD2812/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/AFN_News.jpg/revision/latest?cb=20230825111528",AFN News
+https://bbb.exoadash.com/TVD2809/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/AFN_Prime_Atlantic.jpg/revision/latest?cb=20230731122255",AFN Prime Alantic
+https://bbb.exoadash.com/TVD2808/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/AFN_Prime_Pacific.jpg/revision/latest?cb=20230106115820",AFN Prime Pacific
+https://bbb.exoadash.com/TVD2814/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/AFN_Spectrum.jpg/revision/latest?cb=20240209173948",AFN Spectrum
+https://bbb.exoadash.com/TVD2807/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AFN_Sports.jpg/revision/latest?cb=20230802170718",AFN Sports
+https://bbb.exoadash.com/TVD2813/index.mpd
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/AFN_Sports_2.png/revision/latest?cb=20230803110040",AFN Sports 2
+https://bbb.exoadash.com/TVD2811/index.mpd
