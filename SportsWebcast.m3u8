@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canucks @ Knights" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Vegas-Golden-Knights.svg" group-title="NHLWebcast - Live Games",Canucks @ Knights
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blues @ Sharks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/San-Jose-Sharks.svg" group-title="NHLWebcast - Live Games",Blues @ Sharks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://vr1.packcast.top/auth/96.m3u8?token=GYhcDprM_sNYGHBJbQZ-cLmHlmckkNCHTu8gkBjyskHkDKhn-D3AuLUgFzSTGk08h9gDjjJ-eIAkP-z323T8vmvwfTMlVhbmdtG-_pzvxGzbGWwwjpFbJXayxavi_9nA8eRWxhOmanp1AZ7VBwvUDdfKCvyHJRSVS3KgOfrJH6waSp6j6gAtCDoW30NwcsnVYlmf-ZFBcPDUOL9hZuf2Ib9nhyFPzqeCMCltiCftDseDms9Yj8YKpZPW3xwBsclY52Lo2tQbyqtUr-GIsdSip6KI00KWUXWaf_uBoJriWET0YqwlFjzeLxEZytlkwE1pQMp4-P9h_bVrUE0UJPD26JvZx_Qqp5B3nIi6-1ofMF9gtcCDDALpHShoE7i4-jbP5tSUk-_euKc5IF5bYpUYmyEhijhY7S5PHjBWK1cLw4E1zsxtl-oLPMKrREz_iO6yE03XZn51TZWmO2h-gSgbS9Br4KgBvUDZu7his663DVZPLPbuiF7NHTkx-99mZjKE-7B1vvyPWKg05HitT_Ub7KbXuVjtpILpkQFpnFTYWjf7UvPjyhyeYudgPylh0KXtuZ1t_8kFYWOZNjrkD9HDAqbT44_uF4ndwtQsaM-W9AY
+https://webcast-cdn.b-cdn.net/newz/newz/93.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flames @ Avalanche" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Colorado-Avalanche.svg" group-title="NHLWebcast - Live Games",Flames @ Avalanche
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://webcast-cdn.b-cdn.net/newz/newz/84.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Maple Leafs @ Ducks" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Anaheim-Ducks.svg" group-title="NHLWebcast - Live Games",Maple Leafs @ Ducks
+#EXTVLCOPT:http-origin=https://slapstreams.com/
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=s0tLr9vNsUNf6qhWYtSpoZADVvI6ePVrl09ch09Hz0U&e=1774948403
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Penguins @ Islanders" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/New-York-Islanders.svg" group-title="NHLWebcast - Live Games",Penguins @ Islanders
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://vr2.packcast.top/auth/172.m3u8?token=XLnx0J782C8ilqPKK3HosVopHeEIInL0AXAOTG8k6PhKBeQHb5PdPAWn_ErPiBfo3t1qPKtwO-AU2Q9FhtJlaTFKUQkT0Gd_8RTGAUBKSnEfN_IqHTrmb34AWClbcZX-y1-wnpFgMJ3TwcM4EX_qb1_THbC7MiSfKNa7NB96gxJjHBE53owTjLF7kwBhArw3JQuOEVbW4cS5lDFi_b8nEN-S91LT_arCZ9t8A-vmIrgavTlnT4QQBg0L-Y2F0HOJ9b7zRBxe2Efj3AO995QlVFt24HRsSj3x5T4aRivxKX4UVMK9hgT_YtnhdoDaa4-gbl72FEEWWC-QauMZApRHJeKDfnIyIxU-FWHNcdVXWE7nZA6-341Gwu4gp8Mv-Of_dro5_dxSy7-lB0TYGH8RBEH9D7hCOAtLrXqwiPNhiX98991B-Eg9IMOdF8CLx6QqSsU3Cyb6jlIYLp8XKWtzk5z_8aBPQYW3Jp8ZAc7HQGvicMwyLJRDteDvtG7f1vMBp2ll3lwAb0RQ7Mr4LjOi8tBFYDX5zdZj3sn9YhwEuwKY3F04CIL9dp3zWJDVAm48ZH2LoUQZRG8-eqM0eOOVomvmRp1Ho5R1MAUhYXrF0kc
+https://webcast-cdn.b-cdn.net/newz/newz/170.m3u8
