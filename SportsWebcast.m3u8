@@ -1,6 +1,106 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Panthers @ Cardinals" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Arizona-Cardinals.svg" group-title="NFLWebcast - Live Games",Panthers @ Cardinals
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=38M-gPuW_KzMk6XJTiVPZ0PehawP4tIeco4NHQTPoy4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak%2F&expires=1783875268/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak/57.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",ESPN
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s3.thegamehd.top/auth/1.m3u8?token=Dn9aXe33TSEjKRFhsJEaFGQntpJA5-fZUn6L4PQz9F6xILnbGUR7Dj86PBpTvKSoi1luuko-zy8INRjJIxs3DwbeXW3BbE4voL51SSIsrCtLL3f6FxSzfsebZ2ESsYJ-OicOEz89z9MkL10GWTdC0VkL09wHhd_kpmPDY_4fk8r7qp4PBhtLxlQD4F8IB2ZxgTDe7wzvtQ4nf-Qh00sI_5fnuh2cTU1R1Z62b2eYQvJrJuvm8E7mTEppHitHEN5LkkQFrv82howkkidveQ3dpX4DDp-cSb8shPLmTktAVjvx2op-1NbH3E5J4nKeOBK4On0ttbaNfHe1G5Ej74DStHUoU7j6RBvdo9USeBu2p7f6jFgPeN0qGfULyRafdKcURmxpbDKarzX6YCaxCgNDPxiS8oT5kCzSaP_oMjrzXKpn2Do5MBhY4d2DTCrmXKcIK4l8UQvUrxlRGKErmJhOpSBbtNx6pjiMt0f-y2pBGRIt3bKUy1YH4kKnxsukju3h0y65QjeHJXXl_bU72eaDIYmVYU4khITfbVTlK_E35qbPgbUIRxnK9a25sWBHckTTXMa-z_vfRSo8ilLuAY0Jg-Z2UrxNvKDcVpBn3DKGvoUf2h_ktnRHw1eQTl3JYBew
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",NFL Network
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s3.thegamehd.top/auth/50.m3u8?token=67GcTB3_qB9XvpxnaVttseAgcf-Rixa1vsYYqqDm5hiMFohdSAhSec_qXDPeBnGkVc4iQ5JlfLGs0f3uM2PIveVtJcpL2-pXUvQ7qzQTrhbptmsHjUmI4_lD0St3PLo7-ZWIA3ZsAFe5X6uyTD33EZnjt2_51Jhkr7lczDNBAHrhjesmPGR4R02CzUH6zc0HdZu4QIHn17TyIuM_XNvJw3XlqEAt1LklHhXBGZIP3rQf43rTLgeeRomdYNTpHxLCutC0grea4yHPajoVbx_8rdkSJzmPaY2gaXs6yhXiOCzxQ70f-C90FSrwYzKiWbGZzbsr0iGJ6fMvR2_6Dt9temCY2h66M7xhVVdv3_q9EJ_M0rAsZGjwlPZgqrsig3tU94_4p4nTWSnSDpLwiLWgJ7wEibijjkCz9nzTyudoOe9ca0b_KhEOMKG9gxTPkm2ICR-3jq6iNW_zetrvwMemic0MRsAb5RrC6IdG_i9mWTomu-wqahIk9jTD4459cqDw9n4k6uW_X_ls019VUkYLOD5mlXS8RYDW_a71E4X6ETaDZjogDjevk1qaLYjHB9B5Y0BVjYF6F6JuG_YfqsmzXLDKLk0RQycZ4-Ek8oUTr72-SueLpAEFwkpU50801jd_
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",NFL RedZone
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=B5SxPHBaNFFfZhddnve5m9ZLtckqxpcdx727_mZ9c6A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuQLi9O9etAfuq6m7oj0V3%2F&expires=1783875277/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuQLi9O9etAfuq6m7oj0V3/228.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nhl @ Draft" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/nhl-logo.svg" group-title="NHLWebcast - Live Games",Nhl @ Draft
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2sABiStU2ucxZXReaif06KT6KS8hejGNMcnhwHWJk5mME_P3OEQGqqOVrRM-t6zWL6kNvl2j__e0ViM2t1zK9C3Q5Zj9QUZYxq8_k1uWF1Fxmn-vzMyhAZh1AWqyeEWgct-Ym0W_KrchSSBoBTrd3zNsmu0ZucIKyIITwygdFI8M0JmFYrgP1ipGEdYCv_g9papSwI6Dc65K09Ykd60O7J1XR0vMhFMuQAVNkhhF40B9IJCAjiuXAEH7k2q45M2_rIZj98IyKErTV2q48C8hm3aQXJSquDi7X-A0zTy7qxv9YaDJZ9CwOQIe1RqMzThMnLyDRX54CoNdRwwBaJmIGvtR7bzEBsvTFe3_6oweADMCUk0I67r1mXZ5n5mqT9aFOwkZ1aLAAWq90MQ7o3qDHeOBpn2s0bkrw2coMrxkiVvAtETMgKNFU1vIuGA3OgVLpZlyFHLsOHS084XuaBS7J5v0zr3vYrZXsObV_agv5IhsY3nfV5G_sLJDLO5U9v2Q8
+https://s3.thegamehd.top/auth/81.m3u8?token=WKNL8DAL3tJlKiPI66bHdOdTgTsFEyi8v53VZMJwXtQ2hqd8iieVmjVAo6YkWvZPD5jBvcPMqnsZjQE4XJi_W9CijtdcHv6lmzamP3ZbBWNYHDXDH69wM-g_pQmc9QR2hg4tGsYQziULqyr_UDEl992x5mNwlm9bjZrzs99UxthH5l9rFBBCReFRc4v3R3oE0gAaC-5cR85h0lwsyXJkoH5IgsMttsmv1NvvFeX2BY2AgVUvkeC_B9SaqMqBZQQcxm-y5Tc2fWRu3te3o7m5pRhDl7vQ8y_1p2c29rRu_E90RGrEfpnTblxBEzgcLWI-ArddWBNSCXLtNAxEa5jtE9_0EtPUG7TpOlp5m3yPLoh95byo1IHzfgFkMGsodPw63XrGbVem-v11Bl_dOxvMhtDtaYyLWBDnXXGEOY_CQCw5GMrqhWUHuNBK8clJguug-24vAVnBJxGW4UcS98312fYbg393mbbULXKdjVMExKwdHto1TMlzql5G7psTz-sEYXsRa4QtRfDOY66MtV6_j0TxjmcCw6w9WjyS-zNzJWPync_CY4LwKabeyFDV1FhLZ9-FQ-7LWZyiB9RMKLGxUTGIqf7lcvPUwXdalhlhJPuyOaRP4QRGt6QLlLzdsAwx
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Angels @ Twins" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Minnesota-Twins.svg" group-title="MLBWebcast - Live Games",Angels @ Twins
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=fMX5Sktw5lP0P3VFerhI2NdsGQBlxcSDUz8VLpqXL-w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD%2F&expires=1783875293/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD/121.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Astros @ Rangers" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Texas-Rangers.svg" group-title="MLBWebcast - Live Games",Astros @ Rangers
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=cui0pG1DvyIw7RY-vlypVH2sWnRh2onyGmfrDEsmiso&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1783875299/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics @ White Sox" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Chicago-White-Sox.svg" group-title="MLBWebcast - Live Games",Athletics @ White Sox
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=d8YrbyQ-kSj2p7-BiHNS99ZJpI0pIjJRGbw-fFj18Vw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%2F&expires=1783875295/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb/123.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Blue Jays @ Padres" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-San-Diego-Padres.svg" group-title="MLBWebcast - Live Games",Blue Jays @ Padres
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=xJL59mmMP2EiTh0joh-Z_uJk32qgM3P_qzUxFavAUYQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne%2F&expires=1783875306/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne/126.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Braves @ Cardinals" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-St-Louis-Cardinals.svg" group-title="MLBWebcast - Live Games",Braves @ Cardinals
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=Dk7au5fmYiTPhPJstEwBGm92vn4chO3ZLIQXjbYQMpY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym%2F&expires=1783875297/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym/132.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Brewers @ Pirates" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Pittsburgh-Pirates.svg" group-title="MLBWebcast - Live Games",Brewers @ Pirates
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s3.thegamehd.top/auth/113.m3u8?token=XVDEgvv7fLzkwjuCyNW7w06uzJwT93oYgBBK8obtA3X94TG-HrnR0tqvctYj2r6jm8VAHt7198i7QW6Ab3gfkG43vmelgBxH_CWZjKIGNyWeKecEHS2kNCnmyuK0Uy8QZ5O0vbUUyWpdLZHP3PLGHsoWTI7-iyeKIPY1VFIjM9SrwPS3PFjN10XeEccbLe15yL-yQfL0apy5HTh2yxeE1jBNvugdwdU4AP-5mujocG-b2RJRzFlJtTkfAMN60toyFnmUjZtB_R7xtYYqt65pA0XTIj0MS_zj1tUx6-d7GRSvXOf81AppQcs4np5XmHNr5Tv300qbmuzCqLnra7vSxvkz5PIOn_rpmkdHHDdtKSENRail6uayxUDNYuJXb4Ru4jvLJAsEIQ9Gq--WV92k8dl8mdfF6peSu3jYnNGr6HXyM4gkxMHkxQACGyHuEJAnB9YUQC3iyHy9QIlag1_IpLNDgxNehYV4qbu3IFXQjLnPa5pkvWeno-lOMhGA0KqHJNYi9Ef2SqTSIR_JynFent6nWh95iAnZspGU5sqbjgjntUZc_39CnNIQJrKE_Lt6hBND0mCcTNJckLAWgLYfFNxP0tvhTaj32WiyCm10PoFt1ZaCkrip2ZBG-Kv6hv5EsyaKfcGQ3_QH_B4oTVICUQ
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cubs @ Reds" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Cincinnati-Reds.svg" group-title="MLBWebcast - Live Games",Cubs @ Reds
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=QxPLD8jrHhbgSyGZJtdxmlN1HenNzzHfTxIcZL2PxpE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx%2F&expires=1783875282/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx/116.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Diamondbacks @ Dodgers" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Los-Angeles-Dodgers.svg" group-title="MLBWebcast - Live Games",Diamondbacks @ Dodgers
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=MVtsE9Igfb2i6RP50GUHUCQQsVI6YLWweSlyS3qS4QU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1783875304/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj/133.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Guardians @ Marlins" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Miami-Marlins.svg" group-title="MLBWebcast - Live Games",Guardians @ Marlins
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=Me2oXX4KXtaMm5sgfNtDN8uFMRxRvlu1MYXze4PFonM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1783875284/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Mariners @ Rays" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Tampa-Bay-Rays.svg" group-title="MLBWebcast - Live Games",Mariners @ Rays
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=-YHFHBmwgYnhA-Xml_fbUGqgcTM9iMnhZz-iY05UUvs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1783875291/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Mlb @ Draft" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/MLB-Webcast.svg" group-title="MLBWebcast - Live Games",Mlb @ Draft
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://s3.thegamehd.top/auth/135.m3u8?token=zee5WkdKuXkxH5mbCj08EaOXbsF9PdJ6YzSbdZFNdxhM13us48-BjGbTcKVLDCOSAU-LHgGSY4amUPSpXs8JdwPli2oZiAf38nbtDXsIOXHo5r9UaVMrUp_o2AX3ZRd2RctWnXu-ZgeDhkTbpYcpGBC7R1U3AximL7_vs1UD3NnkvXkWwtxReqRqIhKnYiRbI1XWJeFEiXxkGv13nqVn7gkifb3cBq28wt0A0b_OitmtJvIElJ3wmw8FMbl24s8d_KAyN8ywXuUi7K7nM_h-UW8jr7kj7Dg4RTJhabIAEpRiLFjr0od9s-mBjqbeK_OvpY2AoxYHMmMnNa4tYspctAEwpaPRLIxmfBR2IgJNlGty4ncjH0u-MnrUgsBmyc1sc51VWC9NfrnMBWv3uL5TT_QnjC6llkiGgGiwznZ49dxp3z_3rjRMiIMEVHnG3kJDyCVDPDHVyH0jFnVts7-Qtolag39ur82MPJyTcfhVf3FkZWpkM2qPE3S38vaQl2V3tFkuEpCkIdNOdWSkDQ3dYPyyx7SyIHDNLuNJOwD8Y48vlrS549m3t64U3-xn_IfMJrjMDS7GW5f3of8aZU7wcvg5i0uFpCmhdLT-vECl4Bdr2gp43NPnh9QjvDUCWFHyfxYy7R5kjH0gfVOLTU3FPQ
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Phillies @ Tigers" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Detroit-Tigers.svg" group-title="MLBWebcast - Live Games",Phillies @ Tigers
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=PoiL9WmZQLM1XFHAQLf3nQR24_Woo1uOneWSuejmgWM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1783875286/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Red Sox @ Mets" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-New-York-Mets.svg" group-title="MLBWebcast - Live Games",Red Sox @ Mets
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=uWU7eyazA_maeCp3U20eSMqcbVa089axPk-xicUmaro&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F&expires=1783875289/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy/109.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Rockies @ Giants" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-San-Francisco-Giants.svg" group-title="MLBWebcast - Live Games",Rockies @ Giants
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=M6SLEYfzy4ndzokBEPmyRW6RRi6YG8aToxYQogv8nVE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%2F&expires=1783875302/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq/107.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Royals @ Orioles" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Baltimore-Orioles.svg" group-title="MLBWebcast - Live Games",Royals @ Orioles
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=CCC31NqEftX55sBC0iozTaJmafWUtLuKR3iL73Q5hP8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z%2F&expires=1783875277/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z/237.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Yankees @ Nationals" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Washington-Nationals.svg" group-title="MLBWebcast - Live Games",Yankees @ Nationals
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=dGsAFoU2NMaitEfscY5nKDrVUCTlZIofALqV--PZz4I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61%2F&expires=1783875280/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61/112.m3u8
