@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jackets @ Flyers" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Philadelphia-Flyers.svg" group-title="NHLWebcast - Live Games",Jackets @ Flyers
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Panthers @ Packers" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Green-Bay-Packers.svg" group-title="NFLWebcast - Live Games",Panthers @ Packers
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s6.thegamehd.top/auth/173.m3u8?token=uBUB1psG7cQX6puFpLJUSkG0Ow3rIBga-q3POytDEVHA3ft0NrAD2zgmmjQyebh9ZH_xhDd0stW8W04ZnHTBSqCFEFZRmSNi2QYVM5hsIjdO-kR2s_bTTdHZGPzJ-tqr_GGumb0--cR_PUhZ8fFWPVh3haF4ukd5Kq0ZNN6oWH3vdJLFMVerLsXamg0dyFXP4DDN5zsFOfslbA1C8OQnX2M2qCudzxT8s-mxgXx_yNGid487yxtYbIvdMbp5zbX1TojVtYI4tQqthPP8a7h7_9q4SRXGzm23ZqD_iabiyAFqLd4S7aVUbH0GJrYPnOj-Xy6Q6qDxPwQJ5RW8Cw5ZFcbgcxkO5s46y8XciV71gLI_u0L9QOz57mUkWudTJzdizavdawEYePG64PrId6kmL_EAT7S_3mHzmdZrh3h6H0qQPF9_KWocyqv96cfm3pUxeRAs0JIxNwIESIUHnjceJKiHtFEd09VAioNymrXv4CPfAtzl15WLZzyFc9BU0V6sQduj5aAF6_gvvy94BumjjwooU9FePlA3FAG7RfkjD82F3pbDyfFuqt-oJUkbp2df7R7h1jMMbr6pZRmroIdIduSgZEhNAft-cQWR7ga9ZZbxIpyY2Jj6nYOYYU-Grnx1
+https://webcast-origin.b-cdn.net/bcdn_token=BSKhb7IdXN1RGCkVTDbYpiuo1OQeDJ8pqiI036G1wN8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU%2F&expires=1793217942/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU/69.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Brewers @ Rays" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/Logo-Tampa-Bay-Rays.svg" group-title="MLBWebcast - Live Games",Brewers @ Rays
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webcast-origin.b-cdn.net/bcdn_token=PQiYqcsqDIWzm3cbONhaew1ENfR-0iCtpd24-6hffcw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1793217943/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
