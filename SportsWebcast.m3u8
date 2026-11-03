@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Mlb @ Draft" tvg-logo="https://mlbwebcast.com/wp-content/uploads/2023/02/MLB-Webcast.svg" group-title="MLBWebcast - Live Games",Mlb @ Draft
-#EXTVLCOPT:http-origin=https://mlbwebcast.com/
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jaguars @ Ravens" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Baltimore-Ravens.svg" group-title="NFLWebcast - Live Games",Jaguars @ Ravens
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://s3.thegamehd.top/auth/135.m3u8?token=zee5WkdKuXkxH5mbCj08EaOXbsF9PdJ6YzSbdZFNdxhM13us48-BjGbTcKVLDCOSAU-LHgGSY4amUPSpXs8JdwPli2oZiAf38nbtDXsIOXHo5r9UaVMrUp_o2AX3ZRd2pNttdmdPSwYk5VqPs1z_1gOEGVhm-I8GQEYNMIo0uv7MWVCgmBINvzOkxvwk_iY9DgkLvTNjhtKGtFXLLz1iMsaK6ZV5ZbuwMFXOihyu4W-UeD_rpN46r2EfhDImfxO6EdphgYB4i3wIPRxZ2SzL3QcM6MWfJeikM28AvtpmtLdQ7bXa4_5QOvGo0g2tsib3BgsxaB4M0U_apm9Fz_VPkUIvrh1ERytLOaNnLRExm30_IEBDwqgbMIs1KDjw8dn0Fdm0XHmg2Pp1eudvWvnFYOpH1peimHDg7Xf9J871p5Ww530TXx1I6M1YL36LyG3_2HYP5-dJYGdhzq6IPJX7ErQO8EmC-vwfk_vCMeclJHEgzUh54JXKuVpxoTKqmeP-mw9dx7VlsBXBRszUR0C1_OSvKxR5KBoHerwBdvNVIRLx9gWm1BM6tfIHt6pLYk6FGxnTUrmJmwPm1glO8x8Q-_pLp9bvenVodq-Q8_cTbi1JghI5OFZ39Uy8GG8rni4c
+https://webcast-origin.b-cdn.net/bcdn_token=Gsj1SMT-N-NB_1uHu-RZZmJXMI6JpD0sgdqTkz6qwVg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1793744795/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
